@@ -5,3 +5,5 @@ dist
 .flaskenv*
 !.env.project
 !.env.vault
+package-lock.json
+yarn.json
